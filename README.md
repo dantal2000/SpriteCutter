@@ -26,5 +26,5 @@
     1.6. Имя конечного файла. Данный параметр не является обязательным - при отсутсвии значения конечный файл будет назван out.png
   2. Нажмите кнопку "Вырезать"
 ###
-![alt Стандартное окно](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494360111/SplitCutter_README_img1_kblv3m.png)
-![alt После успешного выполнения](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494360365/SplitCutter_README_img2_ltuhpz.png)
+![alt Стандартное окно](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494361524/SplitCutter_README_img1_kniyb7.png)
+![alt После успешного выполнения](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494361524/SplitCutter_README_img2_jbgtlq.png)
