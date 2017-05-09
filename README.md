@@ -16,6 +16,7 @@
   SpriteCutter_GUI\out\artifacts\SpriteCutter_GUI_jar\SpriteCutter_GUI.jar
   ```
 ## Использование
+###
   1. Заполните все необходимые поля:
     1.1. Относительный или абсолютный путь до исходного изображения
     1.2. Координату x, означающую начало нужного участка (x <= 0)
@@ -24,6 +25,6 @@
     1.5. Высоту участка
     1.6. Имя конечного файла. Данный параметр не является обязательным - при отсутсвии значения конечный файл будет назван out.png
   2. Нажмите кнопку "Вырезать"
-### См. в картинках
+###
 ![alt Стандартное окно](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494360111/SplitCutter_README_img1_kblv3m.png)
 ![alt После успешного выполнения](http://res.cloudinary.com/dbpfaoy8w/image/upload/v1494360365/SplitCutter_README_img2_ltuhpz.png)
