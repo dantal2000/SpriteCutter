@@ -55,7 +55,7 @@
     <!-- Project Libraries -->
 
     <path id="library.spritecutter.classpath">
-        <pathelement location="${basedir}/../SpriteCutter/out/artifacts/SpriteCutter_jar/SpriteCutter.jar"/>
+        <pathelement location="${basedir}/libs/SpriteCutter.jar"/>
     </path>
 
     <!-- Modules -->
